@@ -10,5 +10,12 @@
       "url": "https://github.com/ivanjojo369/synchronexis",
       "wellKnown": "https://github.com/ivanjojo369/synchronexis/.well-known/funding-manifest-urls"
     }
-  }
+  },
+  "projects": [
+    {
+      "name": "Synchronexis",
+      "description": "An open-source AGI prototype with modular architecture, contextual memory, and metacognition.",
+      "repositoryUrl": "https://github.com/ivanjojo369/synchronexis"
+    }
+  ]
 }
