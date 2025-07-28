@@ -10,30 +10,5 @@
       "url": "https://github.com/ivanjojo369/synchronexis",
       "wellKnown": "https://github.com/ivanjojo369/synchronexis/.well-known/funding-manifest-urls"
     }
-  },
-  "project": {
-    "name": "Synchronexis",
-    "description": "An open-source AGI prototype integrating planning, contextual memory, and metacognitive reflection. Inspired by neuroscience, phenomenology, and quantum mechanics, aiming to democratize conscious AGI research.",
-    "license": "MIT",
-    "repositoryUrl": "https://github.com/ivanjojo369/synchronexis",
-    "documentationUrl": "https://docs.google.com/presentation/d/1HCdxZ6Pdk46pOxZJ5DddzmwdNSCbig5PRV923k6omUs",
-    "issueTrackerUrl": "https://github.com/ivanjojo369/synchronexis/issues",
-    "funding": {
-      "requestedAmount": 50000,
-      "currency": "USD",
-      "usage": [
-        "Development of AGI modular architecture",
-        "Implementation of advanced contextual memory",
-        "Research in neuroscience and phenomenology integration",
-        "Open-source community building and documentation",
-        "Hardware infrastructure and compute resources"
-      ]
-    }
-  },
-  "contact": {
-    "email": "ivandaniel369@gmail.com",
-    "twitter": "https://x.com/ChavarinIv2929",
-    "linkedin": "https://www.linkedin.com/in/ivan-chavarin-807ba6373/",
-    "openaiDemo": "https://chatgpt.com/share/688527e0-93f8-8013-8d0b-03d038e0a215"
   }
 }
