@@ -14,8 +14,9 @@
   "projects": [
     {
       "name": "Synchronexis",
-      "description": "An open-source AGI prototype with modular architecture, contextual memory, and metacognition.",
-      "repositoryUrl": "https://github.com/ivanjojo369/synchronexis"
+      "description": "An open-source AGI prototype focused on modular architecture, contextual memory, and reflexive capabilities.",
+      "repositoryUrl": "https://github.com/ivanjojo369/synchronexis",
+      "license": "MIT"
     }
   ]
 }
