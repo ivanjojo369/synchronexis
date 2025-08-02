@@ -25,7 +25,7 @@
                 "wellKnown": "https://github.com/ivanjojo369/synchronexis/blob/main/.well-known/funding-manifest-urls"
             },
             "licenses": ["spdx:MIT"],
-            "tags": ["AGI", "consciousness", "quantum-field", "synthetic-theory"]
+            "tags": ["agi", "consciousness", "quantumfield", "synthetic"]
         }
     ],
     "funding": {
