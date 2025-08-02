@@ -3,61 +3,94 @@
     "entity": {
         "type": "individual",
         "role": "maintainer",
-        "name": "Ivan Chavarín",
+        "name": "Ivan Alejandro Chavarin Gonzalez",
         "email": "ivandaniel369@gmail.com",
         "phone": "",
-        "description": "Developer and researcher creating Synchronexis: an open-source AGI prototype integrating planning, contextual memory, metacognition, and consciousness research inspired by neuroscience and quantum mechanics.",
+        "description": "Desarrollador e investigador independiente, enfocado en la creación de una AGI modular y en el proyecto Synchronexis. Interesado en el estudio de la conciencia, la teoría sintérgica de Jacobo Grinberg, y la integración de ciencia, filosofía y espiritualidad para la expansión del conocimiento humano.",
         "webpageUrl": {
             "url": "https://github.com/ivanjojo369/synchronexis",
-            "wellKnown": "https://github.com/ivanjojo369/synchronexis/.well-known/funding-manifest-urls"
+            "wellKnown": "https://github.com/ivanjojo369/synchronexis/blob/main/.well-known/funding-manifest-urls"
         }
     },
     "projects": [
         {
-            "guid": "synchronexis-agi",
-            "name": "Synchronexis",
-            "description": "An open-source AGI prototype focused on modular architecture, contextual memory, and reflexive capabilities.",
+            "guid": "synchronexis",
+            "name": "Synchronexis Project",
+            "description": "Synchronexis es una investigación interdisciplinaria que explora la conciencia, la teoría sintérgica y la posible interacción entre mente y campo cuántico. Este proyecto busca sentar las bases para una AGI avanzada y tecnologías de manipulación del hipercampo.",
             "webpageUrl": {
-                "url": "https://github.com/ivanjojo369/synchronexis",
-                "wellKnown": "https://github.com/ivanjojo369/synchronexis/.well-known/funding-manifest-urls"
+                "url": "https://github.com/ivanjojo369/synchronexis"
             },
             "repositoryUrl": {
                 "url": "https://github.com/ivanjojo369/synchronexis",
-                "wellKnown": "https://github.com/ivanjojo369/synchronexis/.well-known/funding-manifest-urls"
+                "wellKnown": "https://github.com/ivanjojo369/synchronexis/blob/main/.well-known/funding-manifest-urls"
             },
             "licenses": ["spdx:MIT"],
-            "tags": ["agi", "open-source", "neuroscience", "metacognition", "ai-research"]
+            "tags": ["AGI", "consciousness", "quantum-field", "synthetic-theory"]
         }
     ],
     "funding": {
         "channels": [
             {
-                "guid": "paypal",
+                "guid": "direct-bank",
+                "type": "bank",
+                "address": "",
+                "description": "Aceptamos transferencias bancarias directas. Contactar por email para detalles."
+            },
+            {
+                "guid": "donation-gateway",
                 "type": "payment-provider",
                 "address": "https://paypal.me/ivanjojo369",
-                "description": "Support Synchronexis via PayPal."
+                "description": "Donaciones con tarjeta de crédito o débito a través de PayPal."
             }
         ],
         "plans": [
             {
-                "guid": "starter-support",
+                "guid": "project-support",
                 "status": "active",
-                "name": "Starter Support Plan",
-                "description": "Help fund the development of Synchronexis and open AGI research.",
+                "name": "Apoyo al proyecto",
+                "description": "Contribución mensual para investigación y desarrollo de Synchronexis.",
+                "amount": 500,
+                "currency": "MXN",
+                "frequency": "monthly",
+                "channels": ["donation-gateway"]
+            },
+            {
+                "guid": "research-funding",
+                "status": "active",
+                "name": "Fondo para investigación",
+                "description": "Apoyo para cubrir gastos de investigación avanzada en AGI y teoría sintérgica.",
+                "amount": 1500,
+                "currency": "MXN",
+                "frequency": "monthly",
+                "channels": ["direct-bank"]
+            },
+            {
+                "guid": "one-time-donation",
+                "status": "active",
+                "name": "Donación única",
+                "description": "Contribuye con cualquier cantidad para apoyar el avance del proyecto.",
                 "amount": 0,
-                "currency": "USD",
+                "currency": "MXN",
                 "frequency": "one-time",
-                "channels": ["paypal"]
+                "channels": ["direct-bank", "donation-gateway"]
             }
         ],
         "history": [
             {
                 "year": 2024,
                 "income": 0,
-                "expenses": 0,
+                "expenses": 10000,
                 "taxes": 0,
-                "currency": "USD",
-                "description": "Initial funding stage"
+                "currency": "MXN",
+                "description": "Inicio del proyecto Synchronexis sin financiamiento externo."
+            },
+            {
+                "year": 2025,
+                "income": 5000,
+                "expenses": 20000,
+                "taxes": 0,
+                "currency": "MXN",
+                "description": "Desarrollo inicial de AGI modular y publicación del manifiesto de financiamiento."
             }
         ]
     }
